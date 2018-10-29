@@ -1,0 +1,18 @@
+14(a) There are two constructors because they have different parameters.
+  (b)
+
+15(a) String, Int, Boolean
+  (b)
+  (c) "T290" 10 1
+
+16(a) 4.5
+  (b)
+
+17(a)
+  (b)
+
+18(a) You could create a class called transportation. Then you could make it so that methods of transportations (i.e. buses, trains, e.t.c.)
+      are classes that extend transportation. Each individual transportation method could have different properties and methods.
+  (b)
+
+19(a) 
