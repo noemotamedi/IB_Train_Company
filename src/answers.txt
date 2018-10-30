@@ -15,4 +15,12 @@
       are classes that extend transportation. Each individual transportation method could have different properties and methods.
   (b)
 
-19(a) 
+19(a) public void convert(allCodes[] c){
+            for(int i=0;i<c.length;i+=){
+                for(int j=0;j<c.length;j+=){
+                    if(c[i].equals(c[j]){
+                    //put it into an array list, but I don't know how to
+                    }
+                }
+            }
+      }
